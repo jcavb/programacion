@@ -1,4 +1,4 @@
-# Manual de Cultura de la Especialidad de Programación
+# 📖 Manual de Cultura de la Especialidad de Programación 💻🎮
 
 Este repositorio contiene las reglas, acuerdos, valores y filosofía de trabajo de la Especialidad de Programación AVB.
 
