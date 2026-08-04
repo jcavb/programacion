@@ -17,4 +17,5 @@ Normas del laboratorio de Programación
 11. No utilizar cuentas de otros estudiantes ni compartir sus contraseñas.
 12. No mover las sillas de su lugar designado
 13. No jugar en clases a menos que el profesor lo autorice o quede tiempo libre.
-14. no escribir bloc de notas ofensivos.
+14. No escribir bloc de notas ofensivos.
+15. No descargar programas o archivos de procedencia dudosa que puedan contener virus.
